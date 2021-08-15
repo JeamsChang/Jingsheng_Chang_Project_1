@@ -1,2 +1,5 @@
-
+raw_data/yellow_tripdata_2017-01.csv
+raw_data/yellow_tripdata_2017-02.csv
+raw_data/yellow_tripdata_2017-03.csv
+raw_data/yellow_tripdata_2017-04.csv
 preprocessed_data/
